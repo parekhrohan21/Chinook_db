@@ -38,4 +38,4 @@ GROUP BY
     employee_id, first_name, last_name
 ORDER BY
     wins DESC
-LIMIT 1;
+LIMIT 3;
